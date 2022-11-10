@@ -1,0 +1,28 @@
+.facts {
+    color: deeppink;
+}
+nav {
+    height: 60px;
+}
+nav li {
+    display: inline-block;
+}
+#clickMe:hover {
+    background-color: aqua;
+}
+.b1 {
+    height: 41px;
+    width: 100px;
+}
+.b2 {
+    height: 41px;
+    width: 200px;
+}
+.b3 {
+    height: 41px;
+    width: 80px;
+}
+.b4 {
+    height: 41px;
+    width: 80px;
+}
