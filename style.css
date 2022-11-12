@@ -1,0 +1,35 @@
+.facts {
+    color: deeppink;
+}
+nav {
+    height: 60px;
+}
+nav li {
+    display: inline-block;
+}
+#clickMe:hover {
+    background-color: aqua;
+}
+.b1 {
+    height: 41px;
+    width: 100px;
+    cursor: pointer;
+}
+.b2 {
+    height: 41px;
+    width: 200px;
+    cursor: pointer;
+}
+.b3 {
+    height: 41px;
+    width: 80px;
+    cursor: pointer;
+}
+.b4 {
+    height: 41px;
+    width: 80px;
+    cursor: pointer;
+}
+.lbutton {
+    cursor: pointer;
+}
